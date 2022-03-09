@@ -26,3 +26,5 @@ https://www.learncpp.com/
 https://en.cppreference.com/w/cpp/language
 
 Intro to git: https://opensource.com/article/18/1/step-step-guide-git
+
+Introduction to CMake: https://cliutils.gitlab.io/modern-cmake/ (there is a section on Googletests as well)
