@@ -24,3 +24,5 @@ Fork the repo and submit a link to your forked repository on submission. Let the
 https://www.learncpp.com/
 
 https://en.cppreference.com/w/cpp/language
+
+Intro to git: https://opensource.com/article/18/1/step-step-guide-git
