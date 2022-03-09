@@ -17,7 +17,7 @@ Currently the CMakeLists.txt is practically empty. It is your task to add the ne
 - Question 7
 	> This question has 2 parts. At the end of the 5 threads running the value should be 5000 but its is not. You need to fix the race condition. The second part is to move the "testerFunction()" as a google test using the correct google tests ASSERTS
 
-Fork the repo and submit a link to your forked repository on submission. Please private the forked repo, so that your work also remains private. Upon submission we'll ask you to unprivate it. Let the AV team know if there are any problems. Best of luck.
+Fork the repo and submit a link to your forked repository on submission. Let the AV team know if there are any problems. Best of luck.
 
 # Some useful resources
 
